@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/submitwork/static/css/main.3172fc0a.chunk.css",
+    "main.js": "/submitwork/static/js/main.8c9b25dd.chunk.js",
+    "main.js.map": "/submitwork/static/js/main.8c9b25dd.chunk.js.map",
+    "runtime-main.js": "/submitwork/static/js/runtime-main.1b79db9d.js",
+    "runtime-main.js.map": "/submitwork/static/js/runtime-main.1b79db9d.js.map",
+    "static/css/2.8757ddda.chunk.css": "/submitwork/static/css/2.8757ddda.chunk.css",
+    "static/js/2.2f6b2704.chunk.js": "/submitwork/static/js/2.2f6b2704.chunk.js",
+    "static/js/2.2f6b2704.chunk.js.map": "/submitwork/static/js/2.2f6b2704.chunk.js.map",
+    "static/js/3.91604ccc.chunk.js": "/submitwork/static/js/3.91604ccc.chunk.js",
+    "static/js/3.91604ccc.chunk.js.map": "/submitwork/static/js/3.91604ccc.chunk.js.map",
+    "index.html": "/submitwork/index.html",
+    "static/css/2.8757ddda.chunk.css.map": "/submitwork/static/css/2.8757ddda.chunk.css.map",
+    "static/css/main.3172fc0a.chunk.css.map": "/submitwork/static/css/main.3172fc0a.chunk.css.map",
+    "static/js/2.2f6b2704.chunk.js.LICENSE.txt": "/submitwork/static/js/2.2f6b2704.chunk.js.LICENSE.txt",
+    "static/media/failed.be0e52c6.gif": "/submitwork/static/media/failed.be0e52c6.gif",
+    "static/media/inst.497e059b.gif": "/submitwork/static/media/inst.497e059b.gif",
+    "static/media/passed.21a3c787.gif": "/submitwork/static/media/passed.21a3c787.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b79db9d.js",
+    "static/css/2.8757ddda.chunk.css",
+    "static/js/2.2f6b2704.chunk.js",
+    "static/css/main.3172fc0a.chunk.css",
+    "static/js/main.8c9b25dd.chunk.js"
+  ]
+}
