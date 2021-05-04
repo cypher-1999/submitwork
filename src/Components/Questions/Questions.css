@@ -1,0 +1,10 @@
+.question {
+  background-color: white;
+  text-align: left;
+  margin-left: 2rem;
+  border: black solid 1px;
+  border-radius: 2rem;
+  padding: 2rem 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 5px 10px 8px #888888;
+}
